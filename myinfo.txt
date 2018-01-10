@@ -1,2 +1,3 @@
 Full name: Yichun Lu
 USC ID: 2388728704
+Department: Computer Science
